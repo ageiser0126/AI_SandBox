@@ -1,9 +1,12 @@
-from langchain.chains import VectorDBQA
-from langchain.document_loaders import DirectoryLoader
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.llms import OpenAI
+from langchain_community.chains import VectorDBQA
+from langchain_community.document_loaders import DirectoryLoader
+from langchain_community.embeddings import OpenAIEmbeddings
+from langchain_community.llms import OpenAI
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import Chroma
+from langchain_community.vectorstores import Chroma
+import os
+
+os.environ['OPENAI_API_KEY'] = 'xxxxxxxxx'
 
 # Load the training documents
 loader = DirectoryLoader('./training', glob='**/*.txt')
