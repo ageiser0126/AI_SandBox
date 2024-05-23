@@ -16,13 +16,15 @@ In terms of avionics and electronics, the A-10 lags behind more modern aircraft.
 
 Despite these challenges, the A-10 Warthog remains a beloved and highly respected aircraft among military personnel. Its unique combination of firepower, durability, and close air support capabilities ensures that it continues to play a vital role in modern combat operations. The ongoing debate about its future reflects the broader challenges of balancing specialized capabilities with the need for versatility and modernization in military aviation. As long as close air support remains a critical mission, the A-10 will likely continue to serve as a cornerstone of U.S. ground-attack capabilities.
 
-### A-10 Warthog (Thunderbolt II)
-- **Speed**: 420 mph (Mach 0.56)
-- **Weight**: Empty weight: 24,959 lbs (11,321 kg); Max takeoff weight: 51,000 lbs (23,133 kg)
-- **Size**: Length: 53 ft 4 in (16.16 m); Wingspan: 57 ft 6 in (17.53 m)
-- **Engine Manufacturer**: General Electric TF34-GE-100 turbofans
-- **On-Board Gun Size**: GAU-8/A Avenger 30mm cannon
+
+### F-22 Raptor
+- **Speed**: Mach 2.25 (1,500 mph, 2,414 km/h)
+- **Weight**: Empty weight: 43,340 lbs (19,700 kg); Max takeoff weight: 83,500 lbs (38,000 kg)
+- **Size**: Length: 62 ft 1 in (18.90 m); Wingspan: 44 ft 6 in (13.56 m)
+- **Engine Manufacturer**: Pratt & Whitney F119-PW-100 turbofans
+- **On-Board Gun Size**: M61A2 Vulcan 20mm cannon
 - **Other Important Info**:
-  - Payload: 16,000 lbs (7,260 kg) of mixed ordnance
-  - Range: 800 miles (1,287 km)
-  - Service Ceiling: 45,000 ft (13,700 m)
+  - Supercruise: Mach 1.82
+  - Payload: Internal bays can carry six AIM-120 AMRAAMs or two AIM-120s and two 1,000 lb bombs; two AIM-9 Sidewinders
+  - Range: 1,839 miles (2,960 km)
+  - Service Ceiling: 65,000 ft (19,812 m)
