@@ -6,7 +6,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
 import os
 
-os.environ['OPENAI_API_KEY'] = 'sk-proj-v89DuMtnnRVulNaxGPiaT3BlbkFJMMiLeb7pYca8gFjJP24I'
+os.environ['OPENAI_API_KEY'] = 'XXXXXX'
 
 # Load the training documents
 loader = DirectoryLoader('./training', glob='**/*.txt')
