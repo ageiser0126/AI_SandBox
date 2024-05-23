@@ -4,9 +4,12 @@ from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_openai import OpenAI
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
+from dotenv import load_dotenv
 import os
 
-os.environ['OPENAI_API_KEY'] = 'XXXXXX'
+load_dotenv()
+
+os.environ['OPENAI_API_KEY'] = os.getenv("OPENAI_API_KEY")
 
 # Load the training documents
 loader = DirectoryLoader('./training', glob='**/*.txt')
